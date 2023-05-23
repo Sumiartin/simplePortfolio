@@ -1,0 +1,17 @@
+
+.jumbotron{
+    padding-top: 8rem;
+    background-color: #858a8d;
+
+}
+#galery{
+    background-color: #858a8d;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+.card{
+    width: 300px;
+}
